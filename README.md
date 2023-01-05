@@ -1,2 +1,3 @@
 # free-discussions
-This repository talks on free topics.
+
+## [GO TO Discussions](https://github.com/ahn-sj/free-discussions/discussions)
